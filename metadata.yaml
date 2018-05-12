@@ -1,5 +1,8 @@
 _repo: The-Defendant_12245
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chesterton, G. K. (Gilbert Keith)
@@ -15,6 +18,8 @@ description: In defence of a new edition.- Introduction.- ... Penny dreadfuls.- 
   Rash vows.- ... Skeletons.- ... Publicity.- ... Nonsense.- ... Planets.- ... China
   shepherdesses.- ... Useful information.- ... Heraldry.- ... Ugly things.- ... Farce.-
   ... Humility.- ... Slang.- ... Baby-worship.- ... Detective stories.- ... Patriotism.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12245#The-Defendant
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
